@@ -2,4 +2,6 @@
 title: About
 ---
 
-I'm just an empty blog :)
+Studying *Python* and *Haskell*.
+
+Playing *Fate/Grand Order*.
