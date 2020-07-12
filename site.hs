@@ -27,7 +27,7 @@ main = hakyll $ do
               >>= loadAndApplyTemplate "templates/default.html" pageCtx
               >>= relativizeUrls
 
-    match (fromList ["about.md", "contact.md"]) $ do
+    match (fromList ["about.md", "projects.md"]) $ do
         route   $ setExtension "html"
         compile $ do
             let pagesCtx =
