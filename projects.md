@@ -8,9 +8,15 @@ An FGO API, can be used as a bot :)
 
 [Github](https://github.com/Meowcolm024/FGO-Automata)
 
+## Haskell Runner
+
+A simple `VSCode` extension to run *Haskell*
+
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=Meowcolm024.has-go)
+
 ## Kotoba
 
-A Haskell socks5 proxy app, <em style="color:red">which is stll under development :(</em>
+A Haskell socks5 proxy app, <em style="color:red">which is stll under development :( and probably failed @_@</em>
 
 [Github](https://github.com/Meowcolm024/Kotoba)
 
