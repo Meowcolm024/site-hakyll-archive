@@ -5,11 +5,11 @@ title: About
 - HKUST student
 - Somehow a photographer
 
-Learning *Python*, *Haskell* and *Racket*.
+Learning *Haskell* and *Scala*.
 
 Interested in *Functional Programming*.
 
-Playing *Fate/Grand Order*.
+Playing *Fate/Grand Order* and *Genshin*.
 
 Learning Japanese :)
 
